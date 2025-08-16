@@ -1,3 +1,4 @@
+package learnToCode;
 public class NullVariable {
     public static void main(String[] args) {
         String enemy = null;

@@ -1,3 +1,4 @@
+package learnToCode;
 public class ArmoredHealth {
     public static void main(String[] args) {
         int playerHealth = 1000;

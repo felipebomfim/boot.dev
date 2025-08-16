@@ -1,3 +1,4 @@
+package learnToCode;
 public class FormattedStrings {
     public static void main(String[] args) {
         String name = "Yarl";

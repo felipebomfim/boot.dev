@@ -1,3 +1,4 @@
+package learnToCode;
 
 public class PlayerHealth{
     public static void main(String[] args) {

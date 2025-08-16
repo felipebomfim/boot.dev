@@ -1,3 +1,4 @@
+package learnToCode;
 public class ConcatenateStrings {
     public static void main(String[] args) {
         String sentenceStart = "You have ";

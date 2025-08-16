@@ -1,3 +1,4 @@
+package learnToCode;
 public class NegativeNumbers {
     public static void main(String[] args) {
         int playerHealth = 100;
